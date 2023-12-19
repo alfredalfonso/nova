@@ -1,3 +1,3 @@
 ## Nova E-commerce Admin
 
-In development ...
+Awesome Admin Nova!
